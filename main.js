@@ -1,5 +1,3 @@
-js file
-skdjhjbs
-bsscjsbk
-amsbcabsk
-asnkak
+document.getElementById('myButton').onclick = function() {
+    alert('Button clicked!');
+};
